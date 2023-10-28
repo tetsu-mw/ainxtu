@@ -1,0 +1,19 @@
+{
+  "name": "ainxtu",
+  "version": "1.0.0",
+  "description": "chat GPT implementation to LINE chat bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tetsu-mw/ainxtu.git"
+  },
+  "author": "T. Miwa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tetsu-mw/ainxtu/issues"
+  },
+  "homepage": "https://github.com/tetsu-mw/ainxtu#readme"
+}
